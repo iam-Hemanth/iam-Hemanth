@@ -15,7 +15,7 @@ I am a detail-oriented **Data Analyst** and **ML Enthusiast** based in Bangalore
 
 ### 📊 Featured Projects
 
-#### 🎙️ [Speech Emotion Recognition System](https://github.com/iam-Hemanth)
+#### 🎙️ [Speech Emotion Recognition System](https://github.com/iam-Hemanth/Speech-Emotion-Recognition)
 Developed and trained a robust machine learning model to classify eight core emotions from a dataset of 10,000+ audio files.
 * **Impact:** Improved emotion recognition accuracy by **30%** and reduced model training time by **20%** through performance optimization.
 * **Tech:** Python, Signal Processing, Scikit-learn.
