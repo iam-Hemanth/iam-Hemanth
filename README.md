@@ -41,6 +41,7 @@ Designed high-impact workbooks consolidating HR and Sales data into a self-servi
 * **Master of Computer Applications (MCA)** | Reva University (8.5 CGPA)
 * **Bachelor of Computer Applications (BCA)** | CMR University (8.4 CGPA)
 * **Google Data Analytics Professional Certificate** | Coursera
+* **Data Fundamentals** | IBM
 
 ---
 
