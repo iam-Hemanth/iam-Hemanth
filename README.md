@@ -25,7 +25,7 @@ Architected a production-ready Medallion-style pipeline (Bronze-Silver-Gold) for
 * **Impact:** Designed a Star Schema that reduced analytic query times by **40%** and implemented automated validations that cut ETL failures by **90%**.
 * **Tech:** T-SQL, ETL Scripting, SSMS, Data Modeling.
 
-#### 📈 [Big Mart Sales Forecasting](https://github.com/iam-Hemanth)
+#### 📈 [Big Mart Sales Forecasting](https://github.com/iam-Hemanth/bigmart-sales-prediction-ml)
 Built and tuned an XGBoost Random Forest regressor on an 8,500+ row sales dataset.
 * **Impact:** Developed a reproducible inference pipeline including advanced feature engineering and categorical encoding.
 * **Tech:** Python, XGBoost, Scikit-learn, Pandas.
